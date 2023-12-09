@@ -1,18 +1,18 @@
 # Jahid Hassan
-![Banner Image](link_to_your_banner_image)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jahid-dev/jahid-dev/main/images/banner.jpeg" alt="Banner Image" />
+</p>
 
 ## About Me
 Passionate about software development, I am dedicated to creating innovative solutions that make a positive impact. My goal is to contribute to cutting-edge projects and continuously expand my knowledge in the ever-evolving world of technology.
 
-- 📧 Email: [mrjahidhassan0@gmail.com]
-- 🌐 LinkedIn: [https://www.linkedin.com/in/jahid-hassan-71349a1aa/]
-- 🐦 Twitter: [https://twitter.com/jahidhassanf]
-- ...
+<p align="center">
+  - [![Email](https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/email.png)](mailto:mrjahidhassan0@gmail.com)
+  - [![LinkedIn](https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/linkedin.png)](https://www.linkedin.com/in/jahid-hassan-71349a1aa/)
+  - [![Twitter](https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/twitter.png)](https://twitter.com/jahidhassanf)
+</p>
 
 ## My Work
-
-### Current Status
-![GitHub Contributions](https://api.githubtrends.io/user/svg/jahid-dev/repos?time_range=six_months&theme=dark)
 
 ### Technologies I Work With
 <p align="center">
@@ -32,9 +32,13 @@ Passionate about software development, I am dedicated to creating innovative sol
 </p>
 
 ### GitHub Commit Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
 
 ## GitHub Profile Summary
-![GitHub Profile Summary](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahid-dev&theme=dark" alt="GitHub Profile Summary" />
+</p>
 
-I am passionate about software development, and I thrive in creating robust and scalable applications. My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. My commitment to excellence is reflected in my GitHub contributions, where I actively engage in meaningful projects. Let's connect and explore the endless possibilities of technology together!
+I am passionate about software development, and I thrive in creating robust and scalable applications. My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. Let's connect and explore the endless possibilities of technology together!
