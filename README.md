@@ -23,8 +23,8 @@
 
 ## Recent Working progress
 
-### Next.js 
-### Point of Sale (POS) System
+- Next.js 
+- Point of Sale (POS) System
 
 
 ## Technologies I Work With
