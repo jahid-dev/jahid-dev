@@ -4,13 +4,21 @@
 </p>
 
 ## About Me
-Passionate about software development, I am dedicated to creating innovative solutions that make a positive impact. My goal is to contribute to cutting-edge projects and continuously expand my knowledge in the ever-evolving world of technology.
+### Passionate about software development, I am dedicated to creating innovative solutions that make a positive impact. My goal is to contribute to cutting-edge projects and continuously expand my knowledge in the ever-evolving world of technology.
 
-## Contact Through
+## Reach Me Out
 <p align="center">
-   <a href="mailto:mrjahidhassan0@gmail.com"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/new.png" alt="Email" height="65" /></a>
-  <a href="https://www.linkedin.com/in/jahid-hassan-71349a1aa/"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/linkedin.png" alt="LinkedIn" height="65" /></a>
-  <a href="https://twitter.com/jahidhassanf"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/twitter.png" alt="Twitter" height="65" /></a>
+  <a href="mailto:mrjahidhassan0@gmail.com">
+    <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/new.png" alt="Email" height="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jahid-hassan-71349a1aa/">
+    <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/linkedin.png" alt="LinkedIn" height="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/jahidhassanf">
+    <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/twitter.png" alt="Twitter" height="70" />
+  </a>
 </p>
 
 ## My Work
@@ -42,4 +50,4 @@ Passionate about software development, I am dedicated to creating innovative sol
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahid-dev&theme=dark" alt="GitHub Profile Summary" />
 </p>
 
-I am passionate about software development, and I thrive in creating robust and scalable applications. My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. Let's connect and explore the endless possibilities of technology together!
+###  My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. Let's connect and explore the endless possibilities of technology together!
