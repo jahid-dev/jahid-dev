@@ -27,7 +27,7 @@
 ### Point of Sale (POS) System
 
 
-### Technologies I Work With
+## Technologies I Work With
 <p align="center">
   <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/HTML.png" alt="HTML" />
   <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/css.png" alt="CSS" />
@@ -44,9 +44,9 @@
   <img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/mongo.png" alt="MongoDB" />
 </p>
 
-### GitHub Commit Status
+## GitHub Commit Status
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats" />
 </p>
 
 ## GitHub Profile Summary
