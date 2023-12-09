@@ -1,6 +1,6 @@
 # Jahid Hassan
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jahid-dev/jahid-dev/main/images/banner.jpeg" alt="Banner Image" />
+  <img src="https://raw.githubusercontent.com/jahid-dev/jahid-dev/main/images/banner.jpg" alt="Banner Image" />
 </p>
 
 ## About Me
@@ -21,7 +21,11 @@
   </a>
 </p>
 
-## My Work
+## Recent Working progress
+
+### Next.js 
+### Point of Sale (POS) System
+
 
 ### Technologies I Work With
 <p align="center">
@@ -42,12 +46,12 @@
 
 ### GitHub Commit Status
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## GitHub Profile Summary
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahid-dev&theme=dark"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahid-dev&theme=dark" alt="GitHub Profile Summary" />
 </p>
 
 ###  My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. Let's connect and explore the endless possibilities of technology together!
