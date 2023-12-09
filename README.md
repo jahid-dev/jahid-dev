@@ -7,9 +7,9 @@
 Passionate about software development, I am dedicated to creating innovative solutions that make a positive impact. My goal is to contribute to cutting-edge projects and continuously expand my knowledge in the ever-evolving world of technology.
 
 <p align="center">
-  - Email: <a href="mailto:mrjahidhassan0@gmail.com"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/email.png" alt="Email" /></a>
-  - LinkedIn: <a href="https://www.linkedin.com/in/jahid-hassan-71349a1aa/"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/linkedin.png" alt="LinkedIn" /></a>
-  - Twitter: <a href="https://twitter.com/jahidhassanf"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/twitter.png" alt="Twitter" /></a>
+  - Email: <a href="mailto:mrjahidhassan0@gmail.com"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/new.png" alt="Email" height="40" /></a>
+  - LinkedIn: <a href="https://www.linkedin.com/in/jahid-hassan-71349a1aa/"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/linkedin.png" alt="LinkedIn" height="40" /></a>
+  - Twitter: <a href="https://twitter.com/jahidhassanf"><img src="https://github.com/jahid-dev/jahid-dev/blob/main/images/icons/twitter.png" alt="Twitter" height="40" /></a>
 </p>
 
 ## My Work
