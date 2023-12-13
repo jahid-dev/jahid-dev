@@ -51,7 +51,9 @@
 
 ## GitHub Profile Summary
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahid-dev&theme=dark" alt="GitHub Profile Summary" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahid-dev&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ###  My expertise lies in utilizing a range of technologies, including HTML, CSS, JavaScript, React, Tailwind CSS, Firebase, Node.js, Express.js, and MongoDB. Let's connect and explore the endless possibilities of technology together!
+
+
